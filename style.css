@@ -88,7 +88,7 @@ p {
 }
 
 nav ul li a:hover {
-  color: green;
+  color: #4362f0;
   background-color: whitesmoke;
   border-radius: 10px;
 }
